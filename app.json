@@ -1,7 +1,7 @@
 {
-  "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
-  "repository": "https://github.com/api-ai/apiai-weather-webhook-sample",
+  "name": "Conexión a través de webhook para API.AI",
+  "description": "API.AI webhook consultar el tiempo",
+  "repository": "https://github.com/jacoboariza/consultar_tiempo",
   "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "natural language"]
+  "keywords": ["api.ai", "lenguaje natural"]
 }
